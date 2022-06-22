@@ -1,1 +1,1 @@
-This file is mandatory in projects
+this project is about the second repo of alx tasks 
